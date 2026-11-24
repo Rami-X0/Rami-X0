@@ -1,5 +1,5 @@
 
-# Hi, I'm Rami Elnaggar 👋
+# Hi there, I'm Rami Elnaggar 👋
 
 ### Software Engineer
 
